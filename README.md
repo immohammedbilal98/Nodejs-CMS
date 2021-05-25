@@ -2,6 +2,11 @@
 								
 [KeystoneJS](https://v4.keystonejs.com/) is a content management system and framework to build server applications that interact with a database. It is based on the Express framework for Node.js and uses MongoDB for data storage. It represents a CMS alternative for web developers who want to build a data-driven website but don’t want to get into the PHP platform or large systems like WordPress.
 
+Check out our [documentation](https://v4.keystonejs.com/documentation) if you want to learn more about Keystone and the available options. [Database Configuration](https://v4.keystonejs.com/documentation/database) is a good place to start, as are the [Keystone Setup Options](https://v4.keystonejs.com/documentation/configuration) for general configuration.
+
+#### Version:
+KeystoneJS v4
+
 ### Snapshots of the Project:
 
 ##### 1. Front-End 
